@@ -4,9 +4,9 @@ $                                                     $
 $                     (N.O.V.A)                       $
 $                                                     $
 $           Version: 3.2.5                            $
-$           Started On: 30th Oct, 2022                $
-$           Created By: Sahil shrivastav              $
-$           Github ID: sahilshrivastawa               $
+$           Started On: 30th Oct, 2024                $
+$           Created By:  Rajeev kumar                 $
+$           Github ID: rajeevvv018                    $
 $                                                     $                                                                                                                                                                                            
 $                                                     $
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
@@ -65,7 +65,7 @@ test = toast()
 
 
 emails = {
-    "admin": "sahilshrivastawa522@gmail.com",
+    "admin": "rajeevkumar620630@gmail.com",
 }
 
 city="New Delhi" # for weather
